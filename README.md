@@ -1,4 +1,6 @@
 # TCP-Switcher
+This is used when you want to switch from TCP congestion control to another one. like cubic to bbr, or bbr to dctcp and vice versa.
+
 Script Auto-Switch TCP congestion control
 
 ```
