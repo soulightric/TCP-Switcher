@@ -3,7 +3,6 @@ Script Auto-Switch TCP congestion control
 
 ```
 git clone https://github.com/soulightric/TCP-Switcher.git
-cd TCP-Switcher
 ```
 see the file or move it to the desired location
 
