@@ -8,7 +8,7 @@ git clone https://github.com/soulightric/TCP-Switcher.git
 ```
 see the file or move it to the desired location
 
-## Permission
+## Permission for script
 ```
 chmod +x ../switch-tcp.sh
 ```
